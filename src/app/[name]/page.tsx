@@ -1,4 +1,4 @@
-import styles from "./page.module.css";
+import styles from "../page.module.css";
 import MainContent from "../../components/main/MainContent";
 import KakaoMap from "../../components/KakaoMap";
 import ImagesPreview from "../../components/ImagesPreview";

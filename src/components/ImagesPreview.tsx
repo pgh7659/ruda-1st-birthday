@@ -17,6 +17,7 @@ const ImagesPreview = ({ images }: { images: StaticImageData[] }) => {
         style={{
           display: "flex",
           flexDirection: "row",
+          flexWrap: "wrap",
           marginTop: "20px",
           width: "100%",
         }}

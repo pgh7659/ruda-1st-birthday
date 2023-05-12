@@ -16,18 +16,6 @@ import Image8642 from "public/images/IMG_8642.jpg";
 import Image8643 from "public/images/IMG_8643.jpg";
 import Image8644 from "public/images/IMG_8644.jpg";
 
-export const friendImages = [
-  Image8598,
-  Image8599,
-  Image8600,
-  Image8601,
-  Image8602,
-  Image8603,
-  Image8604,
-  Image8605,
-  Image8606,
-];
-
 export const familyImages = [
   Image8598,
   Image8599,
